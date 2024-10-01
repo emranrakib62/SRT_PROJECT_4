@@ -58,7 +58,7 @@
                 android:layout_height="wrap_content"
                 android:fontFamily="sans-serif-thin"
                 android:layout_gravity="center"
-                android:text="29°C">
+                android:text="20°C">
             </TextView>
             <LinearLayout
                 android:orientation="horizontal"
